@@ -69,8 +69,8 @@ We welcome contributions! Please check our [contribution guidelines](CONTRIBUTIN
 
 ### 🧑‍💻 Developers
 - [Khikmatov Nurilla](https://github.com/your-username) - Project Manager
-- [Ilkhamov Abduaziz](https://github.com/iosproger) - Mobile Developer
-- [Sadullaev Abdurashidbekz](https://github.com/contributor-username) - Backend Developer
+- [Ilkhamov Abduaziz](https://github.com/AbduazizProger) - Mobile Developer
+- [Sadullaev Abdurashidbekz](https://github.com/iosproger) - Backend Developer
 - [Botirov Yusufbek](https://github.com/joseph1424) - Presenter and Additional Tasks
 
 ### support as we work on this project.
