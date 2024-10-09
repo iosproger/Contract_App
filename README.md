@@ -68,8 +68,14 @@ We welcome contributions! Please check our [contribution guidelines](CONTRIBUTIN
 - **Authentication**: JWT (JSON Web Tokens)
 
 ### 🧑‍💻 Developers
-- [Your Name](https://github.com/your-username) - Lead Developer
-- [Contributor Name](https://github.com/contributor-username) - Contributor
+- [Khikmatov Nurilla](https://github.com/your-username) - Project Manager
+- [Ilkhamov Abduaziz](https://github.com/iosproger) - Mobile Developer
+- [Sadullaev Abdurashidbekz](https://github.com/contributor-username) - Backend Developer
+- [Botirov Yusufbek](https://github.com/joseph1424) - Presenter and Additional Tasks
+
+### support as we work on this project.
+- [Norbutaev Elyor](https://github.com/contributor-username) - Intern 
+- [Jakbarov Muhammad Rasul](https://github.com/contributor-username) - Intern 
 
 ### 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
