@@ -1,1 +1,75 @@
+
 # Contract_App
+
+Welcome to **Contract_App**! 🚀
+
+### 📌 Trello Board
+You can follow the project’s progress on our Trello board: [Contract_App Trello Board](https://trello.com/b/huFgXfzV/contractapp)
+
+### 📄 Overview
+
+Contract_App is designed to simplify contract management, allowing users to create, track, and manage contracts efficiently. This project aims to streamline the contracting process, helping businesses and individuals to stay organized and productive.
+
+### ✨ Features
+- **Create Contracts**: Easily create contracts with predefined templates or from scratch.
+- **Manage Deadlines**: Track important deadlines and receive notifications.
+- **Collaborate**: Share contracts with team members for real-time collaboration.
+- **Secure Storage**: Safely store all your contracts in one place, with top-notch security.
+- **Audit History**: Keep track of all changes made to contracts for complete transparency.
+
+### 🚀 Getting Started
+
+#### Prerequisites
+- [Flutter](https://flutter.dev/) (for mobile app development)
+- [Node.js](https://nodejs.org/) (for running the frontend if applicable)
+- [FastAPI](https://fastapi.tiangolo.com/) (for backend API)
+- [MongoDB](https://www.mongodb.com/) (or any database of your choice)
+
+#### Installation
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/Contract_App.git
+   ```
+
+2. Navigate into the project directory
+   ```bash
+   cd Contract_App
+   ```
+
+3. Install dependencies for the backend (FastAPI)
+   ```bash
+   pip install fastapi uvicorn
+   ```
+
+4. Install dependencies for Flutter (mobile app)
+   ```bash
+   flutter pub get
+   ```
+
+5. Start the backend server (FastAPI)
+   ```bash
+   uvicorn main:app --reload
+   ```
+
+6. Run the Flutter app (mobile)
+   ```bash
+   flutter run
+   ```
+
+### 🤝 Contributing
+We welcome contributions! Please check our [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
+
+### 🛠️ Tech Stack
+- **Mobile**: Flutter
+- **Backend**: FastAPI
+- **Frontend**: (Optional) React, Tailwind CSS
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+
+### 🧑‍💻 Developers
+- [Your Name](https://github.com/your-username) - Lead Developer
+- [Contributor Name](https://github.com/contributor-username) - Contributor
+
+### 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
