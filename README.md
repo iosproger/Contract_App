@@ -3,8 +3,8 @@
 
 Welcome to **Contract_App**! 🚀
 
-### 📌 Trello Board
-You can follow the project’s progress on our Trello board: [Contract_App Trello Board](https://trello.com/b/huFgXfzV/contractapp)
+### 📌 Monday Board
+You can follow the project’s progress on our Trello board: [Contract_App Monday Board](https://view.monday.com/1660547211-11e7980ceb9207a5a6c888ffe10148fd?r=euc1)
 
 ### 📄 Overview
 
