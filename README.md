@@ -6,6 +6,9 @@ Welcome to **Contract_App**! 🚀
 ### 📌 Monday Board
 You can follow the project’s progress on our Trello board: [Contract_App Monday Board](https://view.monday.com/1660547211-11e7980ceb9207a5a6c888ffe10148fd?r=euc1)
 
+### 📌 Figma
+You can follow the progress on our Figma board: [Contract_App Figma Board](https://www.figma.com/design/2rKb9HkmL7XYqsMCeLj0P2/Figma-basics?node-id=1669-162202&t=R66L1hmoljBklt2m-1)
+
 ### 📄 Overview
 
 Contract_App is designed to simplify contract management, allowing users to create, track, and manage contracts efficiently. This project aims to streamline the contracting process, helping businesses and individuals to stay organized and productive.
