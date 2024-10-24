@@ -9,6 +9,12 @@ You can follow the project’s progress on our Trello board: [Contract_App Monda
 ### 📌 Figma
 You can follow the progress on our Figma board: [Contract_App Figma Board](https://www.figma.com/design/2rKb9HkmL7XYqsMCeLj0P2/Figma-basics?node-id=1669-162202&t=R66L1hmoljBklt2m-1)
 
+### 📌 UML
+You can follow the progress on our UML board: [Contract App UMl Board](https://lucid.app/lucidchart/3de6e69a-e099-4451-8deb-f899201ae4c3/edit?viewport_loc=-2412%2C-238%2C2505%2C1360%2C0_0&invitationId=inv_6874ad5c-62ca-4f0a-98a2-01b769ce1683)
+
+### 📌 Notion
+You can follow the progress on our Notion board: [Contract App Notion](https://www.notion.so/Backend-124d9ae6180c80cbaf84c47c1d025ceb?pvs=4) 
+
 ### 📄 Overview
 
 Contract_App is designed to simplify contract management, allowing users to create, track, and manage contracts efficiently. This project aims to streamline the contracting process, helping businesses and individuals to stay organized and productive.
