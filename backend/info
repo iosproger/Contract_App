@@ -1,0 +1,5 @@
+create vnv ->  python3 -m venv venv
+enter to venv -> source venv/bin/activate
+
+pip freeze > requirements.txt
+pip install -r requirements.txt
