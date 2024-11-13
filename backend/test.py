@@ -12,7 +12,7 @@ fake_users_db = {
         "full_name": "John Doe",
         "email": "johndoe@example.com",
         "hashed_password": "fakehashedsecret",
-        "disabled": False,
+        "disabled": True,
     },
     "alice": {
         "username": "alice",
@@ -26,7 +26,7 @@ fake_users_db = {
         "full_name": "arb arb",
         "email": "arb@example.com",
         "hashed_password": "fakehashedsecret3",
-        "disabled": True,
+        "disabled": False,
     }
 }
 
@@ -120,6 +120,6 @@ async def read_users_me(current_user: User = Depends(get_current_active_user)):
     print(current_user)
     return current_user
 
-if __name__ == '__main__':
-    uvicorn.run("test:app", reload=True, host="0.0.0.0")
 
+
+# uvicorn test:app --host 0.0.0.0 --port 5050
