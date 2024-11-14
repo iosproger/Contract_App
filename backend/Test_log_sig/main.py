@@ -36,3 +36,7 @@ def signin(user: UserCreate, db: Session = Depends(get_db)):
         )
     access_token = create_access_token(data={"sub": db_user.email})
     return {"access_token": access_token, "token_type": "bearer"}
+# protect Route
+@app.get("/protected")
+def protected_route(current_user: User = Depends(get_current_user)):
+    return {"message": "This is a protected route", "user": current_user.email}
